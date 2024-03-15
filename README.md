@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
+
+- 🔭 I’m currently working on large genomics dataset at the European Molecular Biology Laboratory in Rome (Italy). I analyze genomics dataset and develop tools to automate such tasks.
+- 🌱 I’m currently learning Snakemake and Nextflow
+- 👯 I’m looking to collaborate on image processing!
+- 💬 Ask me about anything! I like to about science and tech with everybody! 
+- 📫 How to reach me: francesco.tabaro@gmail.com
+- 😄 Pronouns: he/him/his
 
 <!--
 **ftabaro/ftabaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
