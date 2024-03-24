@@ -1,9 +1,9 @@
 ### Hi there 👋 
 
 - 🔭 I’m currently working on large genomics dataset at the European Molecular Biology Laboratory in Rome (Italy). I analyze genomics dataset and develop tools to automate such tasks.
-- 🌱 I’m currently learning Snakemake and Nextflow
+- 🌱 I’m currently learning Snakemake 🐍 and Nextflow ⏭️. In my free time I am experimenting with Nix and NixOS.
 - 👯 I’m looking to collaborate on image processing!
-- 💬 Ask me about anything! I like to about science and tech with everybody! 
+- 💬 Ask me about data visualization, genomics data analysis and the weather 😇
 - 📫 How to reach me: francesco.tabaro@gmail.com
 - 😄 Pronouns: he/him/his
 
