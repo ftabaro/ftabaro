@@ -1,23 +1,57 @@
-### Hi there 👋 
+# Francesco Tabaro
 
-- 🔭 I’m currently working on large genomics dataset at the European Molecular Biology Laboratory in Rome (Italy). I analyze genomics dataset and develop tools to automate such tasks.
-- 🌱 I’m currently learning Snakemake 🐍 and Nextflow ⏭️. In my free time I am experimenting with Nix and NixOS.
-- 👯 I’m looking to collaborate on image processing!
-- 💬 Ask me about data visualization, genomics data analysis and the weather 😇
-- 📫 How to reach me: francesco.tabaro@gmail.com
-- 😄 Pronouns: he/him/his
+**Data Platform Developer · Computational Biologist · Research Software Engineer**
 
-<!--
-**ftabaro/ftabaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Rome, Italy · [EMBL Rome](https://www.embl.org/sites/rome/) · [LinkedIn](https://www.linkedin.com/in/ftabaro) · [ORCID](https://orcid.org/0000-0001-5671-9706)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I build data infrastructure for life sciences research and I genuinely care about the biology behind it. I'm currently at the **EMBL Data Science Center**, where I work on data management platforms, bioinformatics automation, and training researchers across EMBL's European sites.
+
+What I enjoy most is sitting at the boundary between data engineering and molecular biology. I can spend a day thinking about plumbing processes in complex workflows and the following digging into ChIP-seq data to figure out what's controlling gene expression. That combination, I think, makes for better tools.
+
+---
+
+## Current Role
+
+**Data Platform Developer** — EMBL Rome, Data Science Center  
+- Designing and maintaining data management infrastructure for multi-site research environments  
+- Delivering training workshops on basic computational skills, FAIR data principles, workflow management, and reproducible research  
+- Automating bioinformatics workflows across HPC environments (Snakemake, Nextflow, SLURM)  
+- Consulting on bioinformatics pipelines across chromatin biology, transcriptomics, and genomics projects  
+
+---
+
+## Technical Skills
+
+**Languages & Frameworks:** R · Python · Bash · SQL  
+**Workflow & HPC:** Snakemake · Nextflow · SLURM · Kubernetes  
+**Data & Infrastructure:** FAIR data principles · GitLab CI/CD · Docker · container orchestration  
+**Genomics:** ChIP-seq · Hi-C · RNA-seq · ATAC-seq · genomic visualization  
+**Teaching:** Carpentries-certified Instructor (14 workshops · 5 university courses)
+
+---
+
+## Selected Work
+
+- **[3t-seq](https://github.com/ftabaro/3t-seq)** — published bioinformatics pipeline for single-cell multiomics (*Briefings in Bioinformatics*, 2024)  
+- **[Olfactory receptor gene regulation](https://www.biorxiv.org/content/10.64898/2025.12.22.695993v1)** — first-author preprint on the mechanisms enforcing monogenic olfactory receptor expression
+- **DisProt / MobiDB** — contributor to protein disorder databases used as community standards  
+
+---
+
+## Background
+
+PhD in Computational Biology · ~900 citations · h-index 8
+
+Previous positions at University of Padova and Tampere University. Research spans protein disorder, cancer genomics, chromatin biology, and transcriptional regulation. A recurring theme across my career is understanding how gene expression is controlled at the molecular level — from enhancer–promoter interactions to the mechanisms that enforce cell-type-specific transcriptional programmes. I have extensive experience in international, multidisciplinary teams and a strong commitment to FAIR and reproducible research practices.
+
+---
+
+## Let's Connect
+
+Open to collaborations, speaking invitations, and opportunities at the intersection of data engineering and life sciences research.
+
+📧 Reach me via [LinkedIn](https://www.linkedin.com/in/ftabaro).
